@@ -36,7 +36,7 @@
       <a href="https://www.reddit.com/user/rayh4444n" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a></a>
       <a href="mailto:rayhankafipratama333@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
       <h2></h2><br>
-      <img src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=2E3440" alt="rxyhn" /> 
+      <img src="https://komarev.com/ghpvc/?username=mhdraihandzakyxr&label=Profile+Views&color=2E3440" alt="rxyhn" /> 
     </samp>
 </p>
 
@@ -53,7 +53,7 @@
 <details> 
   <summary>My Most Used Languages</summary>
   <br/>
-          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&layout=compact&hide_border=true&theme=nord"/>
+          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdraihandzakyxr&layout=compact&hide_border=true&theme=nord"/>
   <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
